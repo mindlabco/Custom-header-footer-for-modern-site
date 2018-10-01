@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx/client-side-extension-manifest.schema.json",
+
+  "id": "621438b1-ace7-4be0-ae7d-fd238c012674",
+  "alias": "CustomHeaderFooterCustomizerApplicationC",
+  "componentType": "Extension",
+  "extensionType": "ApplicationCustomizer",
+   "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false
+}
